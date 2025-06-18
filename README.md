@@ -31,8 +31,11 @@ Prerequisites: - .NET 8 installed on your machine
 To build and run the application, just clone this repository and type "dotnet run" from the WinTerpDesktop directory.
 
 `PS> git clone  https://github.com/julien-zigan/winterpreters.git`
+
 `PS> cd .\winterpreters\`
+
 `PS> cd .\WinTerpDesktop\`
+
 `PS> dotnet run` 
 
 You can test the current version by dragging a pdf file into the application window 
