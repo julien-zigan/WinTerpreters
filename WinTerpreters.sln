@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTerpretersDesktop", "WinTerpDesktop\WinTerpretersDesktop.csproj", "{C1285FC9-3410-41BC-95CA-D80CDC00C2AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTerpDesktop.Tests", "WinTerpDesktop.Tests\WinTerpDesktop.Tests.csproj", "{8EEF1D08-6754-4712-AA3A-F2DD194E0406}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTerpretersDesktop.Tests", "WinTerpDesktop.Tests\WinTerpretersDesktop.Tests.csproj", "{8EEF1D08-6754-4712-AA3A-F2DD194E0406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
